@@ -1,0 +1,8 @@
+Name		Salary
+-----		------
+Roman		5000
+Sumon		5000	
+Karim		4500
+Hasib		4000
+Rifat		4000
+Kabir		4000
