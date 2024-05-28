@@ -5,4 +5,4 @@ Sl	Name		Salary
 3	Karim		4500
 4	Hasib		4000
 5	Rifat		4000
-6	Kabir		4500
+6	Kabir		5000
